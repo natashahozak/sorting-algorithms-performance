@@ -18,7 +18,7 @@ A basic sorting algorithm with time complexity of O(n^2).
 
 ---
 
-## Methodology
+## Method
 - Random datasets were generated in Python.
 - Each algorithm was tested on identical input sizes.
 - Execution time was measured using Python’s `time.perf_counter()`.
@@ -42,5 +42,5 @@ Results were visualized in R using:
 
 ---
 
-## Results Summary
+## Results
 Quick Sort performed the fastest across all input sizes. Insertion Sort showed moderate performance for small datasets but degraded as size increased. Bubble Sort performed the slowest and scaled poorly with larger inputs.
