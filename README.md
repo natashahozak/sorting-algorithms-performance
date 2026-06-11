@@ -18,7 +18,7 @@ A basic sorting algorithm with time complexity of O(n^2).
 
 ---
 
-## Method
+## Methodology
 - Random datasets were generated in Python.
 - Each algorithm was tested on identical input sizes.
 - Execution time was measured using Python’s `time.perf_counter()`.
