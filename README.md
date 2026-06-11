@@ -39,7 +39,6 @@ Results were visualized in R using:
 - Python (algorithm implementation)
 - R (data visualization)
 - VS Code
-- GitHub
 
 ---
 
